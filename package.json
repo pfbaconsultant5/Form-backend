@@ -1,0 +1,44 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@elastic/elasticsearch": "^7.17.0",
+    "@types/body-parser": "^1.19.5",
+    "@types/cookie-parser": "^1.4.7",
+    "@types/cors": "^2.8.17",
+    "@types/elasticsearch": "^5.0.43",
+    "@types/express": "^4.17.21",
+    "@types/node": "^22.1.0",
+    "@types/typescript": "^2.0.0",
+    "amqplib": "^0.10.4",
+    "body-parser": "^1.20.2",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "install": "^0.13.0",
+    "liquidjs": "^10.16.4",
+    "nodemon": "^3.1.7",
+    "rabbitmqproducer": "^1.0.6",
+    "spartaxx.apicache": "^1.0.9",
+    "spartaxx.businessmodels": "^1.0.203",
+    "spartaxx.connectservice": "^1.0.20",
+    "spartaxx.databaseservice": "^1.0.15",
+    "spartaxx.exportpdf": "^1.0.23",
+    "spartaxx.rabbitmqproducer": "^1.0.14",
+    "spartaxx.zipcompress": "^1.0.6",
+    "typescript": "^5.5.4"
+  },
+  "devDependencies": {
+    "@types/amqplib": "^0.10.5",
+    "@types/html-pdf": "^3.0.3",
+    "node": "^22.6.0"
+  }
+}

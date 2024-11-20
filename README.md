@@ -1,1 +1,1 @@
-# Form-backend
+npx ts-node .\Server.ts
